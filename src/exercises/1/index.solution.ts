@@ -102,6 +102,7 @@ export function logPerson(user: User) {
 console.log('Users:');
 users.forEach(logPerson);
 
+console.log("This is a really important addition to this file!")
 
 /* In case if you are stuck:
 
